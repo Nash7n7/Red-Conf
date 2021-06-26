@@ -1,0 +1,44 @@
+.BadgesList li {
+	margin: 15px 0;
+	padding: 15px 60px;
+	display: flex;
+	background-color: #e6e6e6;
+	border-radius: 20px;
+	
+	
+}
+.Badges__descrip{
+	padding: 0 30px;
+}
+
+.BadgesListItem {
+	background: #FFFFFF;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+	border-radius: 5px;
+	display: flex;
+	padding: 1rem;
+}
+
+.BadgesListItem__avatar {
+	border-radius: 50%;
+	background: #a3a3a3;
+	margin-right: 0.5rem;
+	width: 80px;
+	height: 80px;
+	
+}
+
+.Twitter__name {
+	color: #1da1f2;
+}
+
+.Twitter__logo {
+	display: inline-block;
+	width: 1.5rem;
+	height: 1.5rem;
+	background-image: url('https://img.icons8.com/color/26/000000/twitter.png');
+	background-repeat: no-repeat;
+	/*background: url('../../img/gorjeo.png');*/
+	margin-right: 0.3rem;
+	vertical-align: middle;
+}
